@@ -1,5 +1,6 @@
 # panic-detector
 Detects the panic
+
 By Urban Martin & Arcadia(Xiaozhe) Zhang
 
 ![Kitty Panic](https://github.com/CUBoulder-2017-IML4HCI/panic-detector/blob/master/panic.jpg)
