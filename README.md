@@ -1,7 +1,8 @@
 # panic-detector
 Detects the panic
-
 By Urban Martin & Arcadia(Xiaozhe) Zhang
+
+![Kitty Panic](https://github.com/CUBoulder-2017-IML4HCI/panic-detector/blob/master/panic.jpg)
 
 ##Goal
 Our goal is to build a system capable of detecting the onset of a panic attack.  An early alert could allow the user to change their behavior or remove themself from a hostile or dangerous situation.  Another potential use would be to alert a trusted friend or service animal.
